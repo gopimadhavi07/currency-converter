@@ -2,6 +2,9 @@
 
 A simple and responsive web application that allows users to convert currency values using real-time exchange rates.
 
+## 🌐 Live Demo
+
+👉 [View Live Project](https://sravanyadala421.github.io/Currency_Converter)
 
 ## 📌 Features
 
@@ -39,6 +42,10 @@ To run this project locally:
 2. Open `index.html` in your browser.
 
 No build tools or dependencies needed.
+
+## 📸 Screenshot
+
+> Add a screenshot here if available for better visualization.
 
 ## 📃 License
 
